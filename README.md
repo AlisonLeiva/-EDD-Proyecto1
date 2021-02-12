@@ -2,7 +2,7 @@
 
 - Estructuras:
 - ArbolAVL
-- ArbolBB
+- ArbolB
 - Matriz ortogonal
-- Lista ciruclar doblemente enlazada
+- Lista circular doblemente enlazada
 - Lista simple enlazada
